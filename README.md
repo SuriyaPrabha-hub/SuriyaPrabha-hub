@@ -1,4 +1,4 @@
-#Hey, I'm SURIYA PRABHA 👋
+Hey, I'm SURIYA PRABHA 👋
 
 ### Software Developer & IoT Enthusiast from Tamil Nadu
 
