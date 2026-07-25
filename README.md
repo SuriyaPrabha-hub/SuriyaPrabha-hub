@@ -12,7 +12,7 @@ Hey, I'm SURIYA PRABHA 👋
 - 🤖 Interested in IoT, AI, Web Development, and Smart Technologies
 - 🚀 Enjoy solving real-world problems through software solutions
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -35,26 +35,48 @@ Hey, I'm SURIYA PRABHA 👋
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
 ## 🌟 Highlight Projects
 
+### 📋 Employee Leave Management System
+
+A full-stack leave management application built with **Spring Boot, MySQL, HTML, CSS, and JavaScript**. Features secure authentication, leave requests, approval workflows, admin dashboard, and leave tracking.
+
+**Highlights:**
+🔐 Employee & Admin Login | 📝 Leave Application | ✅ Approval Workflow | 📊 Dashboard | 📅 Leave Tracking | ⚡ REST APIs
+
+### 🤖 AI Interview Question Generator
+
+An AI-powered application built with **Python, Streamlit, and OpenRouter API** that generates personalized interview questions based on role, experience, and skills.
+
+**Highlights:**
+🤖 AI Question Generation | 💼 Role-Based Questions | 🎯 Experience Customization | 📄 Word Export | ⚡ Fast AI Responses | 🎨 Modern UI
+
+Here are shorter, more professional versions that match the style of your other project descriptions:
+
 ### ✈️ Flight Delay and Cancellation Management System
-- Real-time flight schedule, delay, and cancellation management
-- Passenger notification and booking management
-- Built using Java and SQL
+
+A Java-based system for managing **flight schedules, delays, cancellations, passenger notifications, and bookings** with SQL database integration.
+
+**Highlights:**
+✈️ Flight Scheduling | ⏱️ Delay & Cancellation Management | 🔔 Passenger Notifications | 💾 SQL Database
+
 
 ### 🌦️ Weather Application
-- Real-time weather forecasting using APIs
-- Responsive web interface
-- Built using HTML, CSS, and JavaScript
 
-### 🚨 IoT-Based Smart Health and Fire Safety Monitoring System with Motion Detection
-- Health monitoring, fire detection, and motion sensing
-- Real-time alert generation
-- Developed using IoT sensors and embedded systems
+A responsive weather application built with **HTML, CSS, and JavaScript** that displays real-time weather information using APIs.
 
----
+**Highlights:**
+🌤️ Live Weather Updates | 📍 Location-Based Forecast | 🌐 API Integration | 📱 Responsive UI
+
+
+### 🚨 IoT-Based Smart Health and Fire Safety Monitoring System
+
+An IoT-based monitoring system for **health, fire, and motion detection**, providing real-time alerts to improve safety and emergency response.
+
+**Highlights:**
+❤️ Health Monitoring | 🔥 Fire Detection | 🚶 Motion Detection | 🚨 Real-Time Alerts
+
 
 ## 📫 Connect With Me
 
