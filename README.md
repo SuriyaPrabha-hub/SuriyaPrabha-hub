@@ -52,7 +52,6 @@ An AI-powered application built with **Python, Streamlit, and OpenRouter API** t
 **Highlights:**
 🤖 AI Question Generation | 💼 Role-Based Questions | 🎯 Experience Customization | 📄 Word Export | ⚡ Fast AI Responses | 🎨 Modern UI
 
-Here are shorter, more professional versions that match the style of your other project descriptions:
 
 ### ✈️ Flight Delay and Cancellation Management System
 
